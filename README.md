@@ -46,6 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![Screenshot 2024-05-10 153225](https://github.com/Sabari-2005/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/139338709/f3736ed7-ffcd-402a-98de-58c92e230b76)
+
 
 ### Name:Sabarinath R
 ### Register Number:212223100048
